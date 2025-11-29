@@ -1,2 +1,7 @@
 # -Criando-Apps-Android-com-Python-usando-Termux
-Esse projeto nasceu da minha necessidade de aprender e criar, mesmo com limitações de hardware. Se você também só tem Python e um celular, saiba que é possível transformar isso em um ambiente completo de desenvolvimento Android.  Espero que esse repositório ajude outros iniciantes que estão na mesma jornada 🚀.
+📖 Minha Jornada
+Sou iniciante na área e venho aprendendo Python com o conhecimento que possuo na linguagem. Sempre pensei em fazer mais coisas com esse aprendizado, e uma delas foi criar meu próprio app Android.
+
+Pesquisei se era possível e descobri que sim, mas logo enfrentei uma limitação: meu notebook era fraco demais para conseguir emular ou compilar algo do tipo. Isso me deixou decepcionado, porque parecia que eu não teria como avançar.
+
+Procurei alternativas e quase não encontrei nenhuma que atendesse ao que eu queria. Até que um dia pensei: por que não usar meu celular como build e emulador, e o PC apenas como editor de código? Foi aí que resolvi montar esse ambiente e compartilhar aqui, porque talvez exista mais gente na mesma situação que eu.
