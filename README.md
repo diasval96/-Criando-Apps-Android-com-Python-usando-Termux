@@ -34,7 +34,7 @@ Execute o script para preparar o ambiente:
 bash setupandroidbuild.sh
 ```
 
-👉 [Link para o script `setupandroidbuild.sh`](README.md)
+👉 [Link para o script `setupandroidbuild.sh`](https://github.com/diasval96/setupandroidbuild.sh)
 
 ---
 
