@@ -1,5 +1,3 @@
----
-
 # 🚀 Criando Apps Android com Python usando Termux
 
 ## 📖 Minha Jornada
