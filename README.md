@@ -34,7 +34,7 @@ Execute o script para preparar o ambiente:
 bash setupandroidbuild.sh
 ```
 
-👉 [Link para o script `setupandroidbuild.sh`](COLOQUE_AQUI_O_LINK)
+👉 [Link para o script `setupandroidbuild.sh`](https://github.com/diasval96/setupandroidbuild.sh/)
 
 ---
 
@@ -43,7 +43,7 @@ bash setupandroidbuild.sh
 O arquivo `buildozer.spec` já vem otimizado com permissões e dependências.  
 Você pode editar conforme seu projeto.
 
-👉 [Link para o modelo `buildozer.spec`](COLOQUE_AQUI_O_LINK)
+👉 [Link para o modelo `buildozer.spec`](https://github.com/diasval96/buildozer.spec)
 
 ---
 
@@ -51,7 +51,7 @@ Você pode editar conforme seu projeto.
 
 Aqui está um exemplo simples (`main.py`) que usa **Plyer** para acessar bateria, GPS, câmera e vibração.
 
-👉 [Link para o exemplo `main.py`](COLOQUE_AQUI_O_LINK)
+👉 [Link para o exemplo `main.py`](https://github.com/diasval96/main.py)
 
 ---
 
